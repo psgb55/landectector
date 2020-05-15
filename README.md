@@ -5,4 +5,4 @@ a package that has many tools for analysing image.
 
 ## outputimage
 
-![explotingimage](/images_output/Extrapolation_solidWhiteCurve.jpg)
+![explotingimage](/images_output/Extrapolation_solidWhiteCurve(1).jpg)
